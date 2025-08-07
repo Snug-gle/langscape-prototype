@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "langscape-prototype"
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
